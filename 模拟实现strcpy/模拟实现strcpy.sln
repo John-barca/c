@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "模拟实现strcpy", "模拟实现strcpy\模拟实现strcpy.vcxproj", "{40C99074-285C-403C-960B-8DD18EAC85EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C99074-285C-403C-960B-8DD18EAC85EB}.Debug|x64.ActiveCfg = Debug|x64
+		{40C99074-285C-403C-960B-8DD18EAC85EB}.Debug|x64.Build.0 = Debug|x64
+		{40C99074-285C-403C-960B-8DD18EAC85EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{40C99074-285C-403C-960B-8DD18EAC85EB}.Debug|x86.Build.0 = Debug|Win32
+		{40C99074-285C-403C-960B-8DD18EAC85EB}.Release|x64.ActiveCfg = Release|x64
+		{40C99074-285C-403C-960B-8DD18EAC85EB}.Release|x64.Build.0 = Release|x64
+		{40C99074-285C-403C-960B-8DD18EAC85EB}.Release|x86.ActiveCfg = Release|Win32
+		{40C99074-285C-403C-960B-8DD18EAC85EB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97DDEAF0-292A-41BC-A5E5-94090E3D0227}
+	EndGlobalSection
+EndGlobal
