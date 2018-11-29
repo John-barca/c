@@ -1,0 +1,10 @@
+﻿  contact.c
+c:\users\韩浩东\source\repos\contact\contact\contact.c(39): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“unsigned int”
+c:\users\韩浩东\source\repos\contact\contact\contact.c(142): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“unsigned int”
+c:\users\韩浩东\source\repos\contact\contact\contact.c(170): warning C4477: “printf”: 格式字符串“%6d”需要类型“int”的参数，但可变参数 3 拥有了类型“char *”
+  text.c
+  正在生成代码
+c:\users\韩浩东\source\repos\contact\contact\contact.c(21): warning C4715: “Find”: 不是所有的控件路径都返回值
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Contact.vcxproj -> C:\Users\韩浩东\source\repos\Contact\Release\Contact.exe
