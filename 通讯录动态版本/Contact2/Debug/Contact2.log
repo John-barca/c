@@ -1,0 +1,7 @@
+﻿  contact.c
+c:\users\韩浩东\source\repos\contact2\contact2\contact.c(119): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\韩浩东\source\repos\contact2\contact2\contact.c(145): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\韩浩东\source\repos\contact2\contact2\contact.c(194): warning C4477: “printf”: 格式字符串“%6d”需要类型“int”的参数，但可变参数 3 拥有了类型“char *”
+c:\users\韩浩东\source\repos\contact2\contact2\contact.c(232): warning C4047: “!=”:“int”与“void *”的间接级别不同
+c:\users\韩浩东\source\repos\contact2\contact2\contact.c(47): warning C4715: “Find”: 不是所有的控件路径都返回值
+  Contact2.vcxproj -> C:\Users\韩浩东\source\repos\Contact2\Debug\Contact2.exe
